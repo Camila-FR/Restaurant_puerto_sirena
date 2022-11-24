@@ -1,14 +1,28 @@
 {
   "files": {
     "main.css": "/Restaurant_puerto_sirena/static/css/main.9933a27d.css",
-    "main.js": "/Restaurant_puerto_sirena/static/js/main.1aad15b1.js",
+    "main.js": "/Restaurant_puerto_sirena/static/js/main.3b6f4e79.js",
+    "static/media/atun.png": "/Restaurant_puerto_sirena/static/media/atun.6c64e4c0914237d1d64f.png",
+    "static/media/paila_al_pilpil.png": "/Restaurant_puerto_sirena/static/media/paila_al_pilpil.7581b8e687545ee44dfa.png",
+    "static/media/camarones_al_pilpil.png": "/Restaurant_puerto_sirena/static/media/camarones_al_pilpil.37784679e4e734e87f77.png",
+    "static/media/tiramisu.png": "/Restaurant_puerto_sirena/static/media/tiramisu.6589901fda46e24a2ae6.png",
+    "static/media/panqueque_de_platano.png": "/Restaurant_puerto_sirena/static/media/panqueque_de_platano.0e3d1a460ae30b477431.png",
+    "static/media/mix_de_mariscos.png": "/Restaurant_puerto_sirena/static/media/mix_de_mariscos.dcf5ceefdcaa74adb163.png",
+    "static/media/panna_cotta.png": "/Restaurant_puerto_sirena/static/media/panna_cotta.df205af9417548f67d6d.png",
     "static/media/foto.mesa.restaurant.jpg": "/Restaurant_puerto_sirena/static/media/foto.mesa.restaurant.ccbfc3fd624e9fa74f4c.jpg",
+    "static/media/paila-marina.jpg": "/Restaurant_puerto_sirena/static/media/paila-marina.378c8464aa6f12032dea.jpg",
+    "static/media/erizos.jpg": "/Restaurant_puerto_sirena/static/media/erizos.4b8708c8d1bf22f76e4d.jpg",
+    "static/media/chupe.jaiba.jpg": "/Restaurant_puerto_sirena/static/media/chupe.jaiba.8f5614fd1c6e007729b1.jpg",
+    "static/media/locos.mayo.jpg": "/Restaurant_puerto_sirena/static/media/locos.mayo.b26ba5932b1a536d9a02.jpg",
+    "static/media/ceviche.jpg": "/Restaurant_puerto_sirena/static/media/ceviche.33c07aaaf5b8174379da.jpg",
+    "static/media/machas.parmesana.jpg": "/Restaurant_puerto_sirena/static/media/machas.parmesana.3f5ed2a6511099870790.jpg",
+    "static/media/logo-restaurant.jpg": "/Restaurant_puerto_sirena/static/media/logo-restaurant.a71cda4cfa511cc56de0.jpg",
     "index.html": "/Restaurant_puerto_sirena/index.html",
     "main.9933a27d.css.map": "/Restaurant_puerto_sirena/static/css/main.9933a27d.css.map",
-    "main.1aad15b1.js.map": "/Restaurant_puerto_sirena/static/js/main.1aad15b1.js.map"
+    "main.3b6f4e79.js.map": "/Restaurant_puerto_sirena/static/js/main.3b6f4e79.js.map"
   },
   "entrypoints": [
     "static/css/main.9933a27d.css",
-    "static/js/main.1aad15b1.js"
+    "static/js/main.3b6f4e79.js"
   ]
 }

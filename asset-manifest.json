@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Restaurant_puerto_sirena/static/css/main.9933a27d.css",
+    "main.js": "/Restaurant_puerto_sirena/static/js/main.1aad15b1.js",
+    "static/media/foto.mesa.restaurant.jpg": "/Restaurant_puerto_sirena/static/media/foto.mesa.restaurant.ccbfc3fd624e9fa74f4c.jpg",
+    "index.html": "/Restaurant_puerto_sirena/index.html",
+    "main.9933a27d.css.map": "/Restaurant_puerto_sirena/static/css/main.9933a27d.css.map",
+    "main.1aad15b1.js.map": "/Restaurant_puerto_sirena/static/js/main.1aad15b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9933a27d.css",
+    "static/js/main.1aad15b1.js"
+  ]
+}

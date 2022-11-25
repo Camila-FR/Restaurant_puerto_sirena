@@ -8,7 +8,7 @@ Página web para un restaurant familiar de marisquería tradicional de pescados 
 
 ## Ingreso a la pagina
 
-Podrás acceder a la pagina mediante el siguiente link:(https://bacevedo12.github.io/Proyecto-4-P-gina-Restaurant/)
+Podrás acceder a la pagina mediante el siguiente link:(https://camila-fr.github.io/)
 
 ## Contrucción de la pagina
 

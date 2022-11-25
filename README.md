@@ -8,7 +8,7 @@ Página web para un restaurant familiar de marisquería tradicional de pescados 
 
 ## Ingreso a la pagina
 
-Podrás acceder a la pagina mediante el siguiente link:(https://camila-fr.github.io/)
+Podrás acceder a la pagina mediante el siguiente link:(https://camila-fr.github.io/Restaurant_puerto_sirena/)
 
 ## Contrucción de la pagina
 
